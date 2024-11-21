@@ -65,21 +65,6 @@ Evaluation:
 Computes metrics like validation accuracy and loss.
 Prints progress during evaluation.
 
-Clone the repository and navigate to the directory to run the program:
-
-
--> git clone <repository-url>
-cd <repository-directory>
-Install dependencies:
-
-pip install -r requirements.txt
-Place datasets in the /kaggle/input/ directory.
-
-Run the script:
-
-python fake_news_detection.py
-View visualizations in saved .jpg files.
-
 Visualization Examples:
 Bar Plot of Label Distribution (All Datasets):
 Displays the number of Fake and True labels in each dataset.
