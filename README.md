@@ -11,10 +11,11 @@ Key Features:
 4. Deep Learning Architecture: Implements a multi-layer XLM-Roberta classifier with dropout layers to prevent overfitting.
 5. Training Pipeline: Optimized training loop with learning rate scheduler and performance monitoring.
 6. Evaluation: Measures accuracy and loss on validation data for model performance analysis.
-![Plot](https://github.com/user-attachments/assets/e1d3be30-36f9-4489-b72d-b23b69a27a8d)
+
 ![Individual labels](https://github.com/user-attachments/assets/a07b5973-bc2f-430b-aa3a-9b59eb09b82a)
 ![combined_label_distribution](https://github.com/user-attachments/assets/bf947a01-1477-4227-98a6-c307901759cd)
 ![All Total True and Fake ](https://github.com/user-attachments/assets/f13bc910-2af6-466d-a03b-407bdaac0ed3)
+![Plot](https://github.com/user-attachments/assets/e1d3be30-36f9-4489-b72d-b23b69a27a8d)
 ![accuracy](https://github.com/user-attachments/assets/7a5b6986-0efa-4e5a-be6d-ce474eaa06c3)
 
 Installation Requirements:
