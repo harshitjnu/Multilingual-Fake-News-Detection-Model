@@ -1,3 +1,4 @@
+
 # Multilingual-Fake-News-Detection-Model
 
 Project Overview:
@@ -14,7 +15,7 @@ Key Features:
 ![Individual labels](https://github.com/user-attachments/assets/a07b5973-bc2f-430b-aa3a-9b59eb09b82a)
 ![combined_label_distribution](https://github.com/user-attachments/assets/bf947a01-1477-4227-98a6-c307901759cd)
 ![All Total True and Fake ](https://github.com/user-attachments/assets/f13bc910-2af6-466d-a03b-407bdaac0ed3)
-
+![accuracy](https://github.com/user-attachments/assets/7a5b6986-0efa-4e5a-be6d-ce474eaa06c3)
 
 Installation Requirements:
 To run the project, the following dependencies are required:
