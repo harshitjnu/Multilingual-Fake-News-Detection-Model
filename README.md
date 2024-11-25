@@ -9,7 +9,7 @@ Key Features:
 3. Advanced Visualization: Label distributions and dataset characteristics are visualized with detailed bar plots and pie charts.
 4. Deep Learning Architecture: Implements a multi-layer XLM-Roberta classifier with dropout layers to prevent overfitting.
 5. Training Pipeline: Optimized training loop with learning rate scheduler and performance monitoring.
-6. Evaluation: Measures accuracy and loss on validation data for model performance analysis.![Screenshot 2024-10-14 000857](https://github.com/user-attachments/assets/a1f389c9-73de-4cb9-b42c-48cc00023aee)
+6. Evaluation: Measures accuracy and loss on validation data for model performance analysis.
 ![Plot](https://github.com/user-attachments/assets/e1d3be30-36f9-4489-b72d-b23b69a27a8d)
 ![Individual labels](https://github.com/user-attachments/assets/a07b5973-bc2f-430b-aa3a-9b59eb09b82a)
 ![combined_label_distribution](https://github.com/user-attachments/assets/bf947a01-1477-4227-98a6-c307901759cd)
