@@ -40,7 +40,7 @@ The script checks and lists all files in the input directory to ensure availabil
 
 Data Preprocessing:
 1. Removes unwanted characters, URLs, mentions, and hashtags.
-2. Retains alphanumeric characters and scripts specific to supported languages (e.g., Hindi, Bengali).
+2. Retains alphanumeric characters and scripts specific to supported languages.
 3. Combines title and text into a single feature for English data.
 
 Data Combination:
@@ -81,7 +81,7 @@ Training Accuracy: Continues to improve over epochs.
 Validation Accuracy: Indicates the generalizability of the model on unseen data.
 
 Future work:
-Experiment with additional transformer models (e.g., BERT, RoBERTa) for comparison.
+Experiment with additional transformer models for comparison.
 Incorporate more languages and datasets to improve diversity.
 Deploy the model as a REST API for real-time news classification.
 
